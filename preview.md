@@ -9,8 +9,11 @@ of cutting back on meat for just one day a week was a happy medium.
 Monday for one year saves the same emissions as driving 348 miles in a car. I made this sort of like a headline, with the lines 
 descending in width to draw your eye down to the diagram below. I also decided to make the last line, which states "saves the equivalent
 emissions of driving 348 miles in a car" in red to contrast from the other text and add emphasis to the one 
-particular line, as I Fidn it to be the most important. Below is a diagram depicting a hamburger and a map of Pennsylvania and New Jersery,
+particular line, as I find it to be the most important. Below is a diagram depicting a hamburger and a map of Pennsylvania and New Jersery,
 with a dotted line across the states to symbolize the distance of 348 miles. 348 miles is approximately equivalent to a 5 and a half hour
-road trip from New Jersey to Pittsburgh, which I plan to also state in the text somewhere below the diagram.
-This draft is definitely incomplete, as I plan to include a bit more text on the bottom part of the page below the map diagram, and am still
-playing around with font and text styles for the existing text.
+road trip from New Jersey to Pittsburgh, as stated in the line below. The third segment has simple text that reads "do your part. #MeatlessMonday" to wrap up the overall message of the argument, which is to persuade people to go meatless for just one day a week. One of the last elements I decided on 
+adding in was the blocks of color segmenting the image into three parts. I wanted to do this to play a bit on the idea of negative and postive space, and 
+I felt like with one solid color background it looked a little messy. I think I like this color blocking element for the top two blocks of the piece, 
+with the statistic and the diagram, but I'm still unsure how it looks in the third bottom segment. I think there's too much space in the bottom segment
+and it is denser when compared with the top two so it looks a little off, so I may still play around with that to see if I can get it to a point where I 
+like it.
